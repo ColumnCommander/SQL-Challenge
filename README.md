@@ -1,12 +1,3 @@
-# SQL-Leetcode-Challenge 
-
-## Motivation
-This repo contains all my SQL solutions from Leetcode website in order to practice my SQL programming skills. I attempted all questions in 25 days to corroborate my knowledge in SQL.
-
-## Description
-The solutions are divided into three level of categories namely Easy, Medium, and Hard. Every category first contains the question and then followed by its respective solution.
-Link to the website is: https://leetcode.com/problemset/database/
-
 # SQL-Leetcode-Challenge
 
 ## Motivation
@@ -22,9 +13,10 @@ You can find the original questions on Leetcode's database problem set:
 
 ## Repository Structure
 
-### Easy: Contains solutions to all the "Easy" level SQL problems.
-### Medium: Contains solutions to all the "Medium" level SQL problems.
-### Hard: Contains solutions to all the "Hard" level SQL problems.
+**Easy:** Contains solutions to all the "Easy" level SQL problems.  
+**Medium:** Contains solutions to all the "Medium" level SQL problems.  
+**Hard:** Contains solutions to all the "Hard" level SQL problems.  
+**Interview:** Contains solutions to all the "Interview" questions asked.
 
 ## How to Use
 
